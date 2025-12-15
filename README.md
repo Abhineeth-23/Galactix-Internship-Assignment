@@ -24,6 +24,6 @@ Task 4: Calling a public AI API with proper request/response handling
 
 Task 5: Research on Large Language Models (LLMs) and local deployment
 
-🛠️ Tech Stack
+Tech Stack
 
-Python • Flask/FastAPI • Asyncio • REST APIs • Public AI APIs • Local LLM tools
+Python, Flask/FastAPI, Asyncio, Public AI APIs, Local LLM tools
