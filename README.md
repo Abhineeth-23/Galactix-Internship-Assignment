@@ -12,12 +12,16 @@ Topic: AI/ML Technical Assignment
 
 Date of Submission: 15/12/2025
 
-Tasks Covered
+Tasks Covered:
 
 Task 1: Python fundamentals and problem-solving
+
 Task 2: API basics using Flask/FastAPI (GET & POST, JSON, status codes)
+
 Task 3: Synchronous vs Asynchronous programming (time.sleep vs asyncio.sleep)
+
 Task 4: Calling a public AI API with proper request/response handling
+
 Task 5: Research on Large Language Models (LLMs) and local deployment
 
 🛠️ Tech Stack
